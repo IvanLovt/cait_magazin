@@ -1,7 +1,7 @@
-Примерный сайт-визитка
+Примерный сайт-визитка WebSite Landing
 
 
-общий доступ 
+общий доступ free (no adaptiv)
 
 
 мой TG -t.me/studiolovt
